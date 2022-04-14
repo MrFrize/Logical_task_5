@@ -1,0 +1,14 @@
+It depends on the factors:
+What typr of jungles i am in?
+Does it have trees suitable to build boat/raft?
+Do i have some equipment?
+What is the depth of the river?
+What is the width of the river?
+1 Approach:
+I can simply jump over if the river width allows me to do it.
+2 Approach:
+I can ford the river in case depth of the river lower then my height
+and i can be sure there is no dangerous creatures under water.
+3 Approach:
+I can build a boat or a raft. To do this, i need trees from which i 
+can make a base and oars, as well as creepers for ropes.
